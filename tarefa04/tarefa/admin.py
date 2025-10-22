@@ -9,4 +9,4 @@ class TarefaAdmin(admin.ModelAdmin):
 
 
 
-# Register your models here.
+
